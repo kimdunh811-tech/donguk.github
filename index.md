@@ -128,7 +128,8 @@ Successfully completed the surveying course with an **A+**, demonstrating strong
 - Revit  
 
 ### **Collaboration Tools**
-- Overleaf  
+- Overleaf(LaTeX)
+- GitHub  
 * * *
 
 ## Hobbies
