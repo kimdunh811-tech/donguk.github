@@ -43,17 +43,14 @@ Cumulative GPA: 3.77 / 4.5 | Major GPA: 3.78 / 4.5
 
 ## Research Interest
 
-- **Real-Time Earthquake Engineering**  
-  Monitoring, analyzing, and responding to seismic events using real-time ground motion data, 
-  with a focus on early warning, rapid damage assessment, and resilience of urban infrastructure.
+- **Real-Time Earthquake Engineering and Monitoring**  
+  Real-time ground motion analysis and rapid damage assessment for post-earthquake decision-making.
 
-- **Seismic Hazard Prediction**  
-  Analysis and prediction of soil liquefaction, ground deformation, and site amplification effects, 
-  integrating geotechnical investigation data with probabilistic seismic hazard assessment.
+- **Geotechnical Earthquake Engineering**  
+  Soil–structure interaction, ground settlement, and liquefaction effects in urban environments.
 
-- **Seismic Structural Design**  
-  Performance-based design and stability analysis of structures subjected to earthquake loads, 
-  including bridge foundations, retaining systems, and underground structures in urban areas.
+- **Data-Driven Ground Response Modeling**  
+  Machine-learning methods (e.g., XGBoost) for predicting deformation and liquefaction from geotechnical and seismic data.
 * * *
 
 ## Projects
