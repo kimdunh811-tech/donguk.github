@@ -1,6 +1,6 @@
 # Dong Uk Kim
 
-TEL. 010-0000-0000  |  E-mail. your_email@example.com  |  Address. City, Republic of Korea  
+TEL. 010-7578-6903  |  E-mail. kimdunh811@gmail.com  |  Address. 104-1102, 21 Daedeoksan-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Republic of Korea  
 
 My objective is to study and apply geotechnical and earthquake engineering to design safer urban infrastructure, 
 focusing on seismic hazard assessment, ground deformation, and liquefaction mitigation.
