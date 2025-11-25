@@ -1,6 +1,3 @@
-theme : minima
-markdown : kramdown 
-
 # Dong Uk Kim
 
 TEL. 010-7578-6903  |  E-mail. kimdunh811@gmail.com  |  Address. 104-1102, 21 Daedeoksan-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Republic of Korea  
