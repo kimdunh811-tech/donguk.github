@@ -7,15 +7,17 @@ focusing on seismic hazard assessment, ground deformation, and liquefaction miti
 
 * * *
 
-## About-me
-I am an undergraduate civil engineering student with a strong interest in geotechnical and earthquake engineering.  
-My long-term goal is to contribute to safer and more resilient cities by improving how we understand and design against 
-ground shaking, liquefaction, and ground settlement.  
+## About me
 
-I am especially interested in connecting traditional geotechnical design with modern data-driven methods such as 
-machine learning–based ground response prediction and real-time monitoring of soil behavior during earthquakes.  
-Through coursework and projects using AutoCAD, surveying, and basic numerical analysis, I am building the foundation 
-needed to work on advanced seismic design and geotechnical analysis in graduate school and industry.
+Growing up in Japan, I directly experienced the Great East Japan Earthquake, which deeply shaped my awareness of seismic safety.  
+That event sparked my long-term interest in earthquakes and naturally guided me toward civil and geotechnical engineering.  
+Through university courses such as structural mechanics, soil mechanics, surveying, and basic engineering design, I gradually developed a strong foundation for understanding how structures and ground systems behave during seismic events.
+
+My current academic focus lies in earthquake engineering and geotechnical design—especially in analyzing seismic hazards, liquefaction mechanisms, and ground deformation under strong motion.  
+I am particularly motivated to explore data-driven approaches, such as machine-learning–based prediction of seismic behavior and real-time ground motion monitoring.
+
+Ultimately, my goal is to contribute to safer and more resilient infrastructure by connecting engineering fundamentals with practical seismic risk mitigation.  
+I hope to work on earthquake-resistant structural/ground systems and improve design strategies that protect communities during future earthquakes.
 
 * * *
 
