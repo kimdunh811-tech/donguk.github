@@ -133,9 +133,8 @@ Successfully completed the surveying course with an **A+**, demonstrating strong
 
 ## Hobbies
 
-I believe that long-term research and engineering work require both a healthy body and a focused mind.  
-In my free time, I enjoy activities that help me recharge and build discipline.  
+I believe that maintaining physical strength and mental clarity is essential for long-term research and engineering work.  
+In my free time, I enjoy activities that help me stay disciplined, focused, and refreshed.
 
-- Running: Regular running to improve stamina and concentration.  
-- Hiking: Enjoy exploring mountains and nature to reset my mind.  
-- Team Activities: Like playing badminton, bowling, and other sports that build teamwork.  
+- **Strength Training (Weight Training):** Maintain consistent workouts to improve physical strength, posture, and stamina.  
+- **Traveling:** Enjoy exploring new cities, cultures, and environments to broaden my perspective and reset my mind. 
