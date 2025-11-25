@@ -21,118 +21,114 @@ needed to work on advanced seismic design and geotechnical analysis in graduate 
 
 ## Education
 
-### University / College Name
+### Inha Technical College
 
 B.S. in Civil and Environmental Engineering  
 
-Cumulative GPA: X.XX / 4.5 | Major GPA: X.XX / 4.5  
+Cumulative GPA: 4.33 / 4.5 | Major GPA: 4.36 / 4.5  
 
-YYYY.MM - Present  
+2025.03 - Present  
 
-### University / College Name
+### Inha Technical College
 
 Associate Degree in Civil and Environmental Engineering  
 
-Cumulative GPA: X.XX / 4.5  
+Cumulative GPA: 3.77 / 4.5 | Major GPA: 3.78 / 4.5  
 
-YYYY.MM - YYYY.MM  
+2020.03 - 2025.02  
 
 * * *
 
-## Research Interests
+## Research Interest
 
-### Geotechnical & Earthquake Engineering
+- **Real-Time Earthquake Engineering**  
+  Monitoring, analyzing, and responding to seismic events using real-time ground motion data, 
+  with a focus on early warning, rapid damage assessment, and resilience of urban infrastructure.
 
-- Seismic hazard assessment for urban areas  
-- Ground settlement and differential settlement analysis  
-- Liquefaction evaluation and mitigation methods  
-- Earth retaining systems and earth anchor design  
-- Data-driven prediction of ground response using ML  
+- **Seismic Hazard Prediction**  
+  Analysis and prediction of soil liquefaction, ground deformation, and site amplification effects, 
+  integrating geotechnical investigation data with probabilistic seismic hazard assessment.
 
+- **Seismic Structural Design**  
+  Performance-based design and stability analysis of structures subjected to earthquake loads, 
+  including bridge foundations, retaining systems, and underground structures in urban areas.
 * * *
 
 ## Projects
+---
 
-### Level Datum Park Route & Existing Condition Survey (AutoCAD Implementation)
+### **KSCE, Korean Society of Civil Engineers — Capstone Design Competition Presentation**  
+*Cheongju, S.Korea | 14th Nov. 2025*
 
-Junior Engineer / Student Project  
+#### **Rutting Mechanism Analysis**
+Analyzed rutting caused by asphalt softening under high temperatures, repeated axle loads, and subgrade stiffness reduction.
 
-■ Key Contributions  
+#### **AI Detection & Prediction**
+Built YOLO-based thermal hotspot detection and XGBoost models to predict high-risk rutting periods using climate and traffic data.
 
-- Performed route and detail surveys around the level datum park using total station and leveling techniques.  
-- Processed field measurements (distance, angle, elevation) and converted them into CAD drawings.  
-- Checked closure error and adjusted survey data to maintain accuracy in plan and profile drawings.  
+#### **Signal-Linked Cooling Control**
+Designed a Jetson Orin–based automated spray cooling system optimized by traffic congestion patterns and signal cycles.
 
-YYYY.MM - YYYY.MM  
+#### **Experimental Validation**
+Conducted field-simulated tests demonstrating a **5–10°C** surface temperature reduction and noticeable mitigation of rutting progression.
+
+#### **Research Significance**
+Emphasized the system as a proactive, AI-driven smart pavement management model enhancing road resilience under heat, moisture, and post-earthquake weakening.
 
 ---
 
-### Earth Anchor–Based Safe Underground Parking Design, Hamamatsucho, Tokyo
+### **Level Surveying Class, Topographic & Route Surveying**  
+*Incheon, S.Korea | 11th Sep. 2024 – 25th Nov. 2024*
 
-Student Design Project  
+#### **Field Levelling & Coordinate Survey**
+Conducted precise leveling and coordinate measurements at the benchmark park to establish accurate ground reference points.
 
-■ Key Contributions  
+#### **Drawing & Technical Documentation**
+Prepared elevation profiles, topographic drawings, and structured survey reports based on collected data, completing the full workflow from field measurement to documentation.
 
-- Reviewed basic design concepts of earth anchors and retaining systems for deep excavation.  
-- Considered groundwater level and soil properties when selecting an appropriate earth anchor system.  
-- Prepared conceptual sections and plans for a safe underground parking structure in dense urban conditions.  
+#### **Baseline Ground Profile Construction**
+Developed a baseline elevation profile that enables future detection of ground settlement, surface displacement, and minor topographic changes.
 
-YYYY.MM - YYYY.MM  
+#### **Geotechnical & Seismic Relevance**
+Recognized that reliable elevation and coordinate data are essential for assessing ground stability, identifying potential liquefaction-related deformation, and evaluating site conditions during seismic events.
 
----
-
-### Ground Settlement and Liquefaction Case Study
-
-Independent Study  
-
-■ Key Contributions  
-
-- Collected case histories of seismic-induced ground settlement and liquefaction from past earthquakes.  
-- Compared ground conditions, PGA, and damage patterns to understand key controlling factors.  
-- Summarized implications for future seismic design and soil improvement methods.  
-
-YYYY.MM - YYYY.MM  
-
+#### **Academic Performance**
+Successfully completed the surveying course with an **A+**, demonstrating strong field accuracy, precise drafting, and thorough reporting.
 * * *
+
+## Scholarships
+- Awarded a full scholarship in the first semester of my second year.  
+- Received academic scholarships for all semesters in my second year during my associate’s degree.  
+
+---
+
+## Certification
+- **2025 — Python Programming (Sunmoon University)**  
+- **2025 — MATLAB Onramp (MathWorks)**  
+- **2025 — Urban and Environmental (Busan University)**  
+  *(To be completed on the 27th, Dec)*
+
+---
+
+## Licenses
+- **2023 — Japanese-Language Proficiency Test N2 License**  
+- **2019 — Computer-Aided Architectural Design Craftsman License**  
+- **2019 — Interior Architecture Technician License**
+
+---
 
 ## Skills
 
-### Programming & Data Analysis
-- MATLAB (basic numerical analysis, plotting)  
-- Python (basic data handling and visualization)  
+### **Programming**
+- Python  
+- MATLAB  
 
-### Engineering Software
-- AutoCAD (2D drafting, survey data to drawings)  
-- GIS / Mapping tools (basic)  
+### **Engineering Software**
+- AutoCAD  
+- Revit  
 
-### Collaboration & Documentation
-- GitHub (version control, GitHub Pages)  
-- Overleaf / LaTeX (report & CV writing)  
-- MS Office (Word, PowerPoint, Excel)  
-
-* * *
-
-## Certifications
-
-### Certification / Course Name 1  
-YYYY  
-
-### Certification / Course Name 2  
-YYYY  
-
-### Certification / Course Name 3  
-YYYY  
-
-* * *
-
-## Licenses
-
-### License Name 1  
-YYYY  
-
-### License Name 2  
-YYYY  
-
+### **Collaboration Tools**
+- Overleaf  
 * * *
 
 ## Hobbies
